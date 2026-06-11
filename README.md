@@ -26,38 +26,16 @@ The hosted documentation is intended to be available at:
 Our manuscript-analysis and figure-generation workflows are available from the primary FunBurd repository:
 
 - https://github.com/SayehKazem/FunBurd
+  
+## Citation
+Please cite the accompanying FunBurd publication when using the framework, documentation, or derived workflows.
 
-## Local build
-
-Place the approved image assets in:
-
-```text
-docs/_static/figures/
-```
-
-Then build locally:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-python -m pip install -r docs/requirements.txt
-python -m sphinx -b html docs docs/_build/html
-```
-
-Open:
-
-```text
-docs/_build/html/index.html
-```
-
-For a stricter check:
-
-```bash
-python -m sphinx -b html -W --keep-going docs docs/_build/html
-python -m sphinx -b linkcheck docs docs/_build/linkcheck
-```
+- https://www.medrxiv.org/content/10.1101/2025.02.25.25322833v3
 
 ## License notice
 
-See [`LICENSE_NOTICE.md`](LICENSE_NOTICE.md). The final repository-level license should be added after approval by the relevant copyright holders and institutional office.
+FunBurd is intended to be made available for non-commercial research and educational use. Commercial use, commercial deployment, or incorporation into a commercial product or service requires separate written permission from the copyright holders.
+
+Any publication, preprint, report, presentation, or public research output that uses the FunBurd framework, source code, documentation, or derived workflows should cite the accompanying FunBurd publication. 
+
+See [`LICENSE_NOTICE.md`](LICENSE_NOTICE.md). 

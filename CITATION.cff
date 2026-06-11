@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use FunBurd, please cite the accompanying paper."
+title: "FunBurd documentation and lightweight tutorial"
+type: software-code
+authors:
+  - family-names: "Kumar"
+    given-names: "Kuldeep"
+  - family-names: "Kazem"
+    given-names: "Sayeh"
+repository-code: "https://github.com/kkumar-iitkgp/FunBurd-documentation"
+url: "https://funburd.readthedocs.io/"
+preferred-citation:
+  type: article
+  title: "Determinants of functional burden pleiotropy and gene dosage responses across human traits"
+  authors:
+    - family-names: "Kazem"
+      given-names: "Sayeh"
+    - family-names: "Kumar"
+      given-names: "Kuldeep"
+    - family-names: "Yang"
+      given-names: "Jane"
+    - family-names: "Benitiere"
+      given-names: "Florian"
+    - family-names: "Huguet"
+      given-names: "Guillaume"
+    - family-names: "Mollon"
+      given-names: "Josephine"
+  journal: "medRxiv"
+  year: 2025
+  doi: "10.1101/2025.02.25.25322833"
+  url: "https://www.medrxiv.org/content/10.1101/2025.02.25.25322833v3"

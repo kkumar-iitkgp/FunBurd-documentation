@@ -1,0 +1,21 @@
+# Local Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local Sphinx builds
+docs/_build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Local source bundles and manuscript files
+Upstream.zip
+Manuscript.pdf
+SupFigs.pdf
+Review_responses.pdf
+SupTables_ST1_to_ST21.xlsx

@@ -1,6 +1,6 @@
 # Figure assets
 
-Place the approved FunBurd documentation images and article-derived figure exports in this folder before building the documentation.
+FunBurd documentation images and article-derived figure exports. Note that we edited the manuscript figures to remove logos. And used AI for some of the concept illustrations. 
 
 The Markdown pages already reference the expected filenames. The principal assets are:
 
@@ -23,7 +23,7 @@ The Markdown pages already reference the expected filenames. The principal asset
 ## Main-figure exports
 
 - `fig4_constraint.png`
-- `fig5a_cross_variant_example.png` *(recommended example panel)*
+- `fig5a_cross_variant_example.png`
 - `fig5b_burden_correlation_heatmap.png`
 - `fig5c_trait_category_network.png`
 - `fig5d_del_dup_correlation_comparison.png`

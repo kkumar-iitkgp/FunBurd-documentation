@@ -10,7 +10,7 @@ The complete author list is provided in the [citation page](citation.md) and lin
 
 ## Documentation
 
-This documentation site was developed and is maintained by **Kuldeep Kumar**, with input from the FunBurd study team.
+This documentation site was developed and is maintained by **Kuldeep Kumar** and **Sayeh Kazem**, with input from the FunBurd study team.
 
 ## Visual assets
 
@@ -19,4 +19,4 @@ This documentation site was developed and is maintained by **Kuldeep Kumar**, wi
 
 ## Contact
 
-For further information and resources, use the contact details provided in the linked article.
+For further information and resources, contact **Kuldeep Kumar** and/or **Sayeh Kazem**, using the contact details provided in the linked article.

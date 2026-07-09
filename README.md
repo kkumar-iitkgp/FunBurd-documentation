@@ -32,6 +32,13 @@ Please cite the accompanying FunBurd publication when using the framework, docum
 
 - https://www.medrxiv.org/content/10.1101/2025.02.25.25322833v3
 
+## Contact
+For any queries or questions, please reach out to the FunBurd team:
+- Sayeh Kazem (sayeh.kazem@umontreal.ca)
+- Kuldeep Kumar (kuldeep.kumar@umontreal.ca)
+- Guillaume Dumas (guillaume.dumas@umontreal.ca)
+- Sébastien Jacquemont (sebastien.jacquemont@umontreal.ca)
+
 ## License notice
 
 FunBurd is intended to be made available for non-commercial research and educational use. Commercial use, commercial deployment, or incorporation into a commercial product or service requires separate written permission from the copyright holders.

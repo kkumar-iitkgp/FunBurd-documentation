@@ -19,4 +19,4 @@ This documentation site was developed and is maintained by **Kuldeep Kumar** and
 
 ## Contact
 
-For further information and resources, contact **Kuldeep Kumar** and/or **Sayeh Kazem**, using the contact details provided in the linked article.
+For further information and resources, please contact the FunBurd team: **Kuldeep Kumar (kuldeep.kumar@umontreal.ca)**, **Sayeh Kazem (sayeh.kazem@umontreal.ca)**, **Guillaume Dumas (guillaume.dumas@umontreal.ca)**, and **Sébastien Jacquemont (sebastien.jacquemont@umontreal.ca)**.
